@@ -1,6 +1,9 @@
 # flight-booking-system
 ### Done as part of the Database Design module
 
+### Requirements
+mysql-connector-java-8.0.18.jar (included in lib folder)
+
 A command line flight booking system developed in Java that uses MySQL to store the data.
 
 The system has the following general functionalities:
